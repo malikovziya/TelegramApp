@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Selected state with a check mark -->
+    <item android:state_checked="true" android:drawable="@android:drawable/btn_minus" />
+    <!-- Default state without the check mark -->
+    <item android:drawable="@android:drawable/btn_plus" />
+</selector>

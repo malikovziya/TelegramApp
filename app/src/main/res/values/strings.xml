@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TelegramApp</string>
+    <string name="image_message_me">Sent image message</string>
+    <string name="image_message_other">Received image message</string>
+</resources>
